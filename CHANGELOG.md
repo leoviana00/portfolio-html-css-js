@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #5 from leoviana00/feature/style/header/font [View](https://github.com/leoviana00/portfolio-html-css-js/commits/4ce263bdaa98703bf25c924d6ab7408249c80435)
 *  Merge pull request #4 from leoviana00/feature/html/header/conteudo [View](https://github.com/leoviana00/portfolio-html-css-js/commits/6496f9128536f7ccbbd6aaf75c7ff7b27e0f0a2e)
 *  Merge pull request #3 from leoviana00/feature/style/normalize [View](https://github.com/leoviana00/portfolio-html-css-js/commits/578a84c99c1a36852cf3f338ba67403e1f644c3b)
 *  Merge pull request #2 from leoviana00/feature/config/repo [View](https://github.com/leoviana00/portfolio-html-css-js/commits/b1ba504fce5e732e85a20b4c0a0c06671d798f83)
@@ -12,6 +13,8 @@
 *  feat(style): add normalize [View](https://github.com/leoviana00/portfolio-html-css-js/commits/0b295b8f46ab42165330b8868fd16201f29712c8)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/74724d88513572a8a9bec718e792a12c70432127)
 *  feat(header): add conteudo ao header [View](https://github.com/leoviana00/portfolio-html-css-js/commits/69ed3809281433a0fbf17aa847db78099e463d7c)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/92f1d638eebb6b382baad3c82380fc3a6435fc91)
+*  feat(style): add font Neue Machina [View](https://github.com/leoviana00/portfolio-html-css-js/commits/ac0b96d30f42b07790d528f597093f730f550fda)
 
 
 

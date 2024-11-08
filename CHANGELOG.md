@@ -2,10 +2,13 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #3 from leoviana00/feature/style/normalize [View](https://github.com/leoviana00/portfolio-html-css-js/commits/578a84c99c1a36852cf3f338ba67403e1f644c3b)
 *  Merge pull request #2 from leoviana00/feature/config/repo [View](https://github.com/leoviana00/portfolio-html-css-js/commits/b1ba504fce5e732e85a20b4c0a0c06671d798f83)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/7a8ad885e1e6ea33580028f3bd5e45bd63374337)
 *  feat(config): autochangelog [View](https://github.com/leoviana00/portfolio-html-css-js/commits/5a0a53bf0050ab0712ea108ba06a9e6672d9a042)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/da0405992413b542012ccf7e604d0cf8be931ae9)
+*  feat(style): add normalize [View](https://github.com/leoviana00/portfolio-html-css-js/commits/0b295b8f46ab42165330b8868fd16201f29712c8)
 
 
 

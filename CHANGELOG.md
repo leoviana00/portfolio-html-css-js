@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #7 from leoviana00/feature/image/icons [View](https://github.com/leoviana00/portfolio-html-css-js/commits/ad9ee32b2e54117d1ef1e044ab7f2d3d62f4730f)
 *  Merge pull request #6 from leoviana00/feature/image/icons [View](https://github.com/leoviana00/portfolio-html-css-js/commits/4ae19456e5c86771c96789c1f069f91a7b89678a)
 *  Merge pull request #5 from leoviana00/feature/style/header/font [View](https://github.com/leoviana00/portfolio-html-css-js/commits/4ce263bdaa98703bf25c924d6ab7408249c80435)
 *  Merge pull request #4 from leoviana00/feature/html/header/conteudo [View](https://github.com/leoviana00/portfolio-html-css-js/commits/6496f9128536f7ccbbd6aaf75c7ff7b27e0f0a2e)
@@ -18,6 +19,8 @@
 *  feat(style): add font Neue Machina [View](https://github.com/leoviana00/portfolio-html-css-js/commits/ac0b96d30f42b07790d528f597093f730f550fda)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/30b29e4f410740932d977d36c0f4a78ff2c94c17)
 *  feat(icons): add imagens e icons [View](https://github.com/leoviana00/portfolio-html-css-js/commits/b92223073e6c53aee4860dd866d1d4754ac711e0)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/90c0f8fe4aa0f456cfb139e70e1ff75f5bcf0143)
+*  feat(image): add photo [View](https://github.com/leoviana00/portfolio-html-css-js/commits/992974fe35a2651498e431f680570ff9cd2914f0)
 
 
 

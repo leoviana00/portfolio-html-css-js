@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #10 from leoviana00/feature/responsividade [View](https://github.com/leoviana00/portfolio-html-css-js/commits/22dcccd3c11918a1b1ed9aad9d8695b738c0f6c9)
 *  Merge pull request #9 from leoviana00/feature/background [View](https://github.com/leoviana00/portfolio-html-css-js/commits/79f903cc5481f5b08fa34f90487219aed1f999e3)
 *  Merge pull request #8 from leoviana00/feature/background [View](https://github.com/leoviana00/portfolio-html-css-js/commits/5effd9f5e59fbcf2efc38c5f0b3c0e24bed64fe1)
 *  Merge pull request #7 from leoviana00/feature/image/icons [View](https://github.com/leoviana00/portfolio-html-css-js/commits/ad9ee32b2e54117d1ef1e044ab7f2d3d62f4730f)
@@ -27,6 +28,8 @@
 *  feat(style): add background [View](https://github.com/leoviana00/portfolio-html-css-js/commits/2438a95974ea1d64c517e50725f0485a42d7dd9d)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/4d5ae2dfe58186305c015b37d07ad04ef30c70c2)
 *  docs(ref): update readme [View](https://github.com/leoviana00/portfolio-html-css-js/commits/29eea76b4e933675f493f1919f12fc899610e528)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/0c956287f8a47ff2012438c1fc8d28bf84ca40cb)
+*  feat(responsividade): Add responsividade ao layout [View](https://github.com/leoviana00/portfolio-html-css-js/commits/3452953e3092e3fd5c4e1c69209e211ac734accb)
 
 
 

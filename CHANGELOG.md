@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #12 from leoviana00/feature/acordeon/animation [View](https://github.com/leoviana00/portfolio-html-css-js/commits/3ee71c892c3ae687741893e98b6679df2dc3ae46)
 *  Merge pull request #11 from leoviana00/feature/acordeon/structure [View](https://github.com/leoviana00/portfolio-html-css-js/commits/2f1ddc3708ffdf5947c5907927371c80a255ed30)
 *  Merge pull request #10 from leoviana00/feature/responsividade [View](https://github.com/leoviana00/portfolio-html-css-js/commits/22dcccd3c11918a1b1ed9aad9d8695b738c0f6c9)
 *  Merge pull request #9 from leoviana00/feature/background [View](https://github.com/leoviana00/portfolio-html-css-js/commits/79f903cc5481f5b08fa34f90487219aed1f999e3)
@@ -33,6 +34,8 @@
 *  feat(responsividade): Add responsividade ao layout [View](https://github.com/leoviana00/portfolio-html-css-js/commits/3452953e3092e3fd5c4e1c69209e211ac734accb)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/6d69d713d4f02c585d6fbc2b26b5e9d69812cbfd)
 *  feat(acordeon): desenvolvendo a estrutura do acordeon [View](https://github.com/leoviana00/portfolio-html-css-js/commits/2eff6f8051209a40d0317e3353d0f3f786471b12)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/portfolio-html-css-js/commits/7ba51ca0b2757ebbfe0e4799b0ac8b54b0e50451)
+*  feat(style): adicionando animacao no acordeon [View](https://github.com/leoviana00/portfolio-html-css-js/commits/2c44d44b03028e6ecba50f47b2dc5daa563f0c28)
 
 
 
